@@ -1,12 +1,12 @@
 # hello Apollo
  
        Welcome to the world the fews are well knowd about this path
-#include <stdio.h>
 
+
+#include <stdio.h>
 
 int main()
 {
-
     int size, temp;
     printf("Input the number of elements to be stored in the first array: ");
       scanf("%d",&size);
