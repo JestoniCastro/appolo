@@ -6,6 +6,7 @@
 
 int main()
 {
+
     int size, temp;
     printf("Input the number of elements to be stored in the first array: ");
       scanf("%d",&size);
