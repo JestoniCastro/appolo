@@ -1,10 +1,6 @@
 # hello Apollo
  
-       Welcome to the world the fews are well knowd about this path
-
-
-
-
+       Welcome to the world the fews are well known about this path
 
 
 
@@ -12,6 +8,7 @@
 
 int main()
 {
+
     int size, temp;
     printf("Input the number of elements to be stored in the first array: ");
       scanf("%d",&size);
